@@ -1,4 +1,4 @@
-b = 8
+b = 4
 
 #aregreamos un comentario
 
